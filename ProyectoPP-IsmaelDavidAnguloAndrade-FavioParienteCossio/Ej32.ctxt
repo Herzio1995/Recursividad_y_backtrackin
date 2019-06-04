@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=java.lang.String\ eliminarOcurrencias(java.lang.String)
+comment1.params=num\ pos
+comment1.target=java.lang.String\ eliminarOcurrencias(java.lang.String,\ int)
+comment2.params=num\ x\ pos
+comment2.target=java.lang.String\ eliminar(java.lang.String,\ char,\ int)
+numComments=3

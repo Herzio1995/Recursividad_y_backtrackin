@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=f\ c
+comment0.target=Posicion(java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getFila()
+comment2.params=
+comment2.target=int\ getColumna()
+numComments=3

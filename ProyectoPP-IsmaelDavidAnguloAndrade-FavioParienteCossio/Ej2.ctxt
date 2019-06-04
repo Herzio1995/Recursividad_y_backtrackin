@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=boolean\ resolvedor(int)
+comment1.params=n\ aux\ divisores
+comment1.target=int\ contarDivisores(int,\ int,\ int)
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=boolean\ resolvedor(int)
+comment1.params=n\ res
+comment1.target=boolean\ resolvedor(int,\ boolean)
+numComments=2

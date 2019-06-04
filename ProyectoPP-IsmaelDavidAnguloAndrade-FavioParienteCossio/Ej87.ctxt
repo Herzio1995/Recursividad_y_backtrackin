@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=boolean\ esCurioso(int)
+comment1.params=num
+comment1.target=int\ factorialSuma(int)
+comment2.params=n\ res
+comment2.target=int\ factorial(int,\ int)
+numComments=3

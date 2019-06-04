@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=cad1\ cad2
+comment0.target=boolean\ esPrefijo(java.lang.String,\ java.lang.String)
+comment1.params=cad1\ pos
+comment1.target=java.lang.String\ sacarPrefijo(java.lang.String,\ int)
+comment2.params=cad1\ cad2
+comment2.target=boolean\ esSufijo(java.lang.String,\ java.lang.String)
+comment3.params=cad1\ pos
+comment3.target=java.lang.String\ sacarSufijo(java.lang.String,\ int)
+numComments=4

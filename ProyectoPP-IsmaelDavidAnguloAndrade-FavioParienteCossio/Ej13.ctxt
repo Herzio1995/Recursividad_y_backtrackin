@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=array
+comment0.target=int\ sumElementos(int[])
+comment1.params=array\ indice\ respuesta
+comment1.target=int\ sumElementos(int[],\ int,\ int)
+comment2.params=n\ aux\ divisores
+comment2.target=int\ contarDivisores(int,\ int,\ int)
+numComments=3

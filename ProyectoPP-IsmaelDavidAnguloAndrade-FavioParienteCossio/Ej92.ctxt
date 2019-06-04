@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=conjunto
+comment0.target=boolean\ sonSociables(int[])
+comment1.params=conjunto\ conjuntoSuma\ indice\ res
+comment1.target=boolean\ sonSociables(int[],\ int[],\ int,\ boolean)
+comment2.params=conjunto\ res\ indice
+comment2.target=int[]\ hallarSumas(int[],\ int[],\ int)
+comment3.params=n\ dis\ res
+comment3.target=int\ hallarSumaDivisores(int,\ int,\ int)
+numComments=4

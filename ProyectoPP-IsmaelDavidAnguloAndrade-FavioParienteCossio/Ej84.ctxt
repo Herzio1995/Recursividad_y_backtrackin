@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ej84()
+comment1.params=palabra
+comment1.target=boolean\ esJugueton(java.lang.String)
+comment2.params=palabra\ pos
+comment2.target=boolean\ esJugueton(java.lang.String,\ int)
+comment3.params=palabra\ letra\ pos
+comment3.target=boolean\ existeCaracter(java.lang.String,\ char,\ int)
+numComments=4

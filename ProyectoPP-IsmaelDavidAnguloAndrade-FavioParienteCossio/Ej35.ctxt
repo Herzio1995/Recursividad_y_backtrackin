@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nivel
+comment0.target=Ej35(int)
+comment1.params=
+comment1.target=java.util.ArrayList\ trianguloPascal()
+comment2.params=f\ c
+comment2.target=void\ llenarPascal(int,\ int)
+comment3.params=f\ c
+comment3.target=java.util.ArrayList\ ultimaLinea(int,\ int)
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=int\ resolvedor(int)
+comment1.params=n\ i\ res
+comment1.target=int\ crearSerie(int,\ int,\ int)
+comment2.params=n
+comment2.target=boolean\ esPrimo(int)
+comment3.params=n\ aux\ divisores
+comment3.target=int\ contarDivisores(int,\ int,\ int)
+comment4.params=n\ digitos
+comment4.target=int\ contarDigitos(int,\ int)
+numComments=5

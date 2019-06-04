@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ej74()
+comment1.params=conjClausura
+comment1.target=void\ resolver(int)
+comment2.params=flagsDePrimeros\ conjunto\ res\ cont\ flags\ i\ conjClausura\ pos
+comment2.target=void\ resolver(boolean[],\ int[],\ java.util.ArrayList,\ int,\ boolean[],\ int,\ int,\ java.util.ArrayList)
+comment3.params=pos\ flagsDePrimeros
+comment3.target=boolean\ noRecorrido(int,\ boolean[])
+comment4.params=res\ pos
+comment4.target=void\ imprimir(java.util.ArrayList,\ int)
+numComments=5

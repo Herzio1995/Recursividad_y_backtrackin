@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Nido\ buscarNido(int,\ int)
+comment1.params=x\ y
+comment1.target=int\ buscarMax(int,\ int)
+comment2.params=n1\ n2
+comment2.target=Nido\ max(Nido,\ Nido)
+comment3.params=x\ y
+comment3.target=boolean\ valida(int,\ int)
+numComments=4

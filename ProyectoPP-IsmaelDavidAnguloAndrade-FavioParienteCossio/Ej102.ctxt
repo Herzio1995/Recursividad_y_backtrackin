@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ej102()
+comment1.params=
+comment1.target=java.util.ArrayList\ posicionesParaPollitos()
+comment2.params=mat\ numPollitos
+comment2.target=java.util.ArrayList\ getPosiciones(char[][],\ int)
+comment3.params=mat\ numPollitos
+comment3.target=java.util.ArrayList\ getPosicione(char[][],\ int)
+comment4.params=mat\ max\ i\ res\ b
+comment4.target=java.util.ArrayList\ getPosiciones(char[][],\ int,\ int,\ java.util.ArrayList,\ boolean)
+comment5.params=mat\ max\ i\ j\ res\ b
+comment5.target=java.util.ArrayList\ getPosiciones(char[][],\ int,\ int,\ int,\ java.util.ArrayList,\ boolean)
+comment6.params=mat\ max\ i\ j\ res
+comment6.target=java.util.ArrayList\ getPosiciones(char[][],\ int,\ int,\ int,\ java.util.ArrayList)
+comment7.params=x\ y\ mat
+comment7.target=boolean\ valido(int,\ int,\ char[][])
+numComments=8

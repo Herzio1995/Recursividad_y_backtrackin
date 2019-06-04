@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ sumarElementos()
+comment1.params=pos
+comment1.target=int\ sumarElementos(int)
+comment2.params=
+comment2.target=int\ minimoElemento()
+comment3.params=min\ pos
+comment3.target=int\ minimoElemento(int,\ int)
+comment4.params=
+comment4.target=int[]\ ordenar()
+comment5.params=secuenciaOrdenada\ pos
+comment5.target=int[]\ ordenar(int[],\ int)
+comment6.params=sec\ inicio\ comparar
+comment6.target=int[]\ arrastrarMinimo(int[],\ int,\ int)
+comment7.params=x
+comment7.target=java.lang.String\ buscar(int)
+comment8.params=num\ pos
+comment8.target=int\ buscar(int,\ int)
+numComments=9

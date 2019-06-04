@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=k
+comment0.target=java.util.ArrayList\ polidivisibles(int)
+comment1.params=k\ primero\ res
+comment1.target=java.util.ArrayList\ polidivisibles(int,\ int,\ java.util.ArrayList)
+comment2.params=numeros\ i\ res
+comment2.target=boolean\ esPolidivisible(int[],\ int,\ boolean)
+comment3.params=numero\ digitos
+comment3.target=int\ contarDigitos(int,\ int)
+comment4.params=numero\ res\ i\ k
+comment4.target=int[]\ numeros(int,\ int[],\ int,\ int)
+numComments=5

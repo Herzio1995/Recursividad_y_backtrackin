@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=java.util.ArrayList\ resolvedor(int)
+comment1.params=n\ aux\ array
+comment1.target=java.util.ArrayList\ resolvedor(int,\ int,\ java.util.ArrayList)
+numComments=2

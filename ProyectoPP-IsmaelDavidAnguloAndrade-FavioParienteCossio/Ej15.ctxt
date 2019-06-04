@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=boolean\ esDivisibleA11(int)
+comment1.params=num\ pos
+comment1.target=int\ esDivisibleA11(int,\ int)
+numComments=2

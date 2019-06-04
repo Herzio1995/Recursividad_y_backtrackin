@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=boolean\ resolver(int)
+comment1.params=n\ diferencia\ res
+comment1.target=boolean\ resolver(int,\ int,\ boolean)
+comment2.params=n\ res
+comment2.target=boolean\ esDivisible(int,\ boolean)
+numComments=3

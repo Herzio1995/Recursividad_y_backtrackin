@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ resolver()
+comment1.params=nombres\ res\ a\ b\ pos\ flags\ i
+comment1.target=void\ resolver(java.lang.String[],\ java.lang.String[],\ java.lang.String,\ java.lang.String,\ int,\ boolean[],\ int)
+comment2.params=a\ b\ res\ actual
+comment2.target=boolean\ juntos(java.lang.String,\ java.lang.String,\ java.lang.String[],\ int)
+comment3.params=res
+comment3.target=void\ imprimir(java.lang.String[])
+numComments=4

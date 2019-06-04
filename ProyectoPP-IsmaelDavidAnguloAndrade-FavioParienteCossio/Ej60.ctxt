@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ej60()
+comment1.params=num
+comment1.target=boolean\ esSiames(int)
+comment2.params=num\ pos
+comment2.target=void\ partir(java.lang.String,\ int)
+numComments=3

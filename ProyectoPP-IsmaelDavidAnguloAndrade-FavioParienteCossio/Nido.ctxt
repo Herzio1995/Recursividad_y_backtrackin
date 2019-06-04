@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=x\ y\ nro
+comment0.target=Nido(int,\ int,\ int)
+comment1.params=x\ y\ nro\ color
+comment1.target=Nido(int,\ int,\ int,\ char)
+comment2.params=
+comment2.target=boolean\ vacio()
+comment3.params=
+comment3.target=boolean\ marcada()
+comment4.params=
+comment4.target=boolean\ viveA()
+comment5.params=
+comment5.target=void\ marcar()
+comment6.params=
+comment6.target=void\ desmarcar()
+comment7.params=
+comment7.target=int\ getHab()
+numComments=8

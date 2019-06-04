@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ej54()
+comment1.params=palabra
+comment1.target=java.lang.String\ saltar(java.lang.String)
+comment2.params=palabra\ pos\ puntoPartida
+comment2.target=java.lang.String\ saltar(java.lang.String,\ int,\ int)
+comment3.params=pos
+comment3.target=java.lang.String\ imprimir(int)
+comment4.params=pos\ letra\ puntoPartida
+comment4.target=Movimiento\ buscarAdelante(int,\ char,\ int)
+comment5.params=pos\ letra\ puntoPartida
+comment5.target=Movimiento\ buscarAtras(int,\ char,\ int)
+numComments=6

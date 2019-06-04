@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ej115()
+comment1.params=x\ y
+comment1.target=int\ movimientosCaballo(int,\ int)
+comment2.params=fila\ col
+comment2.target=int\ movimientos(int,\ int)
+comment3.params=fila\ col
+comment3.target=boolean\ esValido(int,\ int)
+numComments=4
